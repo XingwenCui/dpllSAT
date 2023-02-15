@@ -1,6 +1,4 @@
-//
-// Created by Xingwen Cui on 15/2/2023.
-//
+
 
 #ifndef DPLLSAT_DPLL_H
 #define DPLLSAT_DPLL_H

@@ -1,6 +1,4 @@
-//
-// Created by Xingwen Cui on 15/2/2023.
-//
+
 
 #include "vector"
 #include "unordered_map"

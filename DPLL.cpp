@@ -1,6 +1,4 @@
-//
-// Created by Xingwen Cui on 15/2/2023.
-//
+
 #include "DPLL.h"
 
 bool DPLL::check_sat() {
