@@ -2,6 +2,9 @@
 #include "DPLL.h"
 
 bool DPLL::check_sat() {
+    /*
+     * A DPLL based solver, set
+     */
     std::unordered_map<int, int> atomStatus; //record node status 0,1,2
     int clause_num = phi.clauses.size(); //clause number
     int atomNum = phi.num_variable; //number of variables;

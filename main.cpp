@@ -29,7 +29,7 @@ int main(int argc, char **argv) {
         auto end = std::chrono::steady_clock::now();
 
         if(sat) {
-            std::cout<<" sat"<<std::endl;
+            std::cout<<"sat"<<std::endl;
             for (const auto &p:m){
                 std::cout<<"   "<<p.first<<" -> "<<p.second<<std::endl;
             }
